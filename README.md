@@ -1,4 +1,4 @@
-# ⚡ CPU Usage Prediction with DVC + MLflow
+# ⚡ Q3. CPU Usage Prediction with DVC + MLflow
 
 This project demonstrates an **end-to-end MLOps pipeline** for predicting CPU usage using machine learning models.  
 It uses **DVC** for reproducible pipelines and data versioning, and **MLflow** for experiment tracking & model management.
